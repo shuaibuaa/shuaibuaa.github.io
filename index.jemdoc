@@ -1,0 +1,25 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Shuai Zhang
+
+~~~
+{}{img_left}{photos/shuai.jpg}{alt text}{131}{180}{https://shuaibuaa.github.io}
+PhD,\n [https://scse.buaa.edu.cn/ School of Computer Science and Enginerring], \n[https://www.buaa.edu.cn/ Beihang University]\n
+Phone: \+86 19801230781\n
+Email: zhangs\@act.buaa.edu.cn\n
+~~~
+
+== About me
+I received the B.S. degree from the School of Computer Science and Engineering, Beihang University, Beijing, China, in 2016. I am currently pursuing the Ph.D. degree with Beihang University under the supervision of [http://act.buaa.edu.cn/lijx/ Prof. Jianxin Li].
+
+== Research
+My research interests include 
+- Machine Learning
+- Data Mining
+- Time-series Data
+- Medication & Industrial Application
+
+=== Recent Publications 
+. Zhou, H., Zhang, S., Peng, J., Zhang, S., Li, J., Xiong, H. and Zhang, W., 2020. Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting. arXiv preprint arXiv:2012.07436.
+. Zhang, S., Zhou, H., Chen, F. and Li, J., 2020. A Bisubmodular Approach to Event Detection and Prediction in Multivariate Social Graphs. IEEE Transactions on Computational Social Systems.
+. Shao, M., Li, J., Chen, F., Huang, H., Zhang, S. and Chen, X., 2017, April. An efficient approach to event detection and forecasting in dynamic multivariate social media networks. In Proceedings of the 26th International Conference on World Wide Web (pp. 1631-1639).
+. Zhang, S., Li, J., Xie, P., Zhang, Y., Shao, M., Zhou, H. and Yan, M., 2017. Stacked kernel network. arXiv preprint arXiv:1711.09219.
